@@ -8,7 +8,6 @@
   <sprites name="sprites">
     <sprite>sprites\spr_wall</sprite>
     <sprite>sprites\spr_monkey</sprite>
-    <sprite>sprites\spr_monkey2</sprite>
     <sprite>sprites\spr_room0_target_hit</sprite>
     <sprite>sprites\spr_room0_target</sprite>
     <sprite>sprites\spr_tile_blue</sprite>
@@ -19,7 +18,7 @@
     <sprite>sprites\spr_tile_orange</sprite>
     <sprite>sprites\spr_tile_green</sprite>
     <sprite>sprites\spr_exit</sprite>
-    <sprite>sprites\spr_exit_open</sprite>
+    <sprite>sprites\spr_exit_out</sprite>
     <sprite>sprites\spr_banana</sprite>
     <sprite>sprites\spr_knife</sprite>
     <sprite>sprites\spr_chair</sprite>
@@ -41,6 +40,7 @@
     <sprite>sprites\spr_dragon</sprite>
     <sprite>sprites\spr_toilet</sprite>
     <sprite>sprites\spr_spaceship</sprite>
+    <sprite>sprites\temp</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
