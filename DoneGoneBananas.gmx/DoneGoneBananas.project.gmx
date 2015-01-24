@@ -9,12 +9,18 @@
     <sprite>sprites\spr_monkey</sprite>
     <sprite>sprites\spr_wall</sprite>
     <sprite>sprites\spr_flowerpot</sprite>
+    <sprite>sprites\spr_room0_target</sprite>
+    <sprite>sprites\spr_room0_target_hit</sprite>
+    <sprite>sprites\spr_exit</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts"/>
   <objects name="objects">
     <object>objects\obj_monkey</object>
     <object>objects\obj_wall</object>
+    <object>objects\obj_room0_target</object>
+    <object>objects\obj_exit</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
