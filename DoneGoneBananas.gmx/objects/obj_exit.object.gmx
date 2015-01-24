@@ -41,7 +41,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_exit_open</sprite>
+            <sprite>spr_exit_out</sprite>
           </argument>
           <argument>
             <kind>0</kind>

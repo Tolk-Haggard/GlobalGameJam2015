@@ -60,7 +60,6 @@
     <object>objects\obj_picture_piece0</object>
     <object>objects\obj_picture</object>
   </objects>
-  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\splash</room>
     <room>rooms\room0</room>
