@@ -55,6 +55,8 @@
     <object>objects\obj_room0_target</object>
     <object>objects\obj_exit</object>
     <object>objects\obj_start_button</object>
+    <object>objects\obj_tile_red</object>
+    <object>objects\obj_tile_blue</object>
   </objects>
   <timelines name="timelines"/>
   <rooms name="rooms">
