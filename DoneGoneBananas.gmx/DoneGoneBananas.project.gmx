@@ -4,7 +4,15 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\snd_room_1</sound>
+    <sound>sound\snd_did_something</sound>
+    <sound>sound\snd_door_open</sound>
+    <sound>sound\snd_room_0</sound>
+    <sound>sound\snd_room_2</sound>
+    <sound>sound\snd_splash</sound>
+    <sound>sound\snd_credits</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_wall</sprite>
     <sprite>sprites\spr_monkey</sprite>
