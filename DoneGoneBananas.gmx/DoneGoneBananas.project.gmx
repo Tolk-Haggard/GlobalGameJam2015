@@ -26,6 +26,7 @@
     <sprite>sprites\spr_flowerpot</sprite>
     <sprite>sprites\spr_flower</sprite>
     <sprite>sprites\spr_picture_piece0</sprite>
+    <sprite>sprites\spr_picture_piece_clear</sprite>
     <sprite>sprites\spr_picture_piece1</sprite>
     <sprite>sprites\spr_picture_piece2</sprite>
     <sprite>sprites\spr_picture_piece3</sprite>
@@ -58,6 +59,11 @@
     <object>objects\obj_tile_red</object>
     <object>objects\obj_tile_blue</object>
     <object>objects\obj_picture_piece0</object>
+    <object>objects\obj_picture_piece1</object>
+    <object>objects\obj_picture_piece2</object>
+    <object>objects\obj_picture_piece3</object>
+    <object>objects\obj_picture_piece4</object>
+    <object>objects\obj_picture_piece5</object>
     <object>objects\obj_picture</object>
     <object>objects\obj_banana</object>
   </objects>
