@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\spr_monkey</sprite>
     <sprite>sprites\spr_wall</sprite>
+    <sprite>sprites\spr_flowerpot</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
