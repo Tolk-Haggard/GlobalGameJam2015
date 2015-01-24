@@ -7,16 +7,40 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_wall</sprite>
-    <sprite>sprites\spr_flowerpot</sprite>
-    <sprite>sprites\spr_knife</sprite>
     <sprite>sprites\spr_monkey</sprite>
-    <sprite>sprites\spr_banana</sprite>
+    <sprite>sprites\spr_monkey2</sprite>
     <sprite>sprites\spr_room0_target_hit</sprite>
     <sprite>sprites\spr_room0_target</sprite>
     <sprite>sprites\spr_tile_blue</sprite>
+    <sprite>sprites\spr_tile_blue_step_on</sprite>
     <sprite>sprites\spr_tile_red</sprite>
     <sprite>sprites\spr_tile_red_step_on</sprite>
+    <sprite>sprites\spr_tile_purple</sprite>
+    <sprite>sprites\spr_tile_orange</sprite>
+    <sprite>sprites\spr_tile_green</sprite>
     <sprite>sprites\spr_exit</sprite>
+    <sprite>sprites\spr_exit_open</sprite>
+    <sprite>sprites\spr_banana</sprite>
+    <sprite>sprites\spr_knife</sprite>
+    <sprite>sprites\spr_chair</sprite>
+    <sprite>sprites\spr_table</sprite>
+    <sprite>sprites\spr_flowerpot</sprite>
+    <sprite>sprites\spr_flower</sprite>
+    <sprite>sprites\spr_picture_piece0</sprite>
+    <sprite>sprites\spr_picture_piece1</sprite>
+    <sprite>sprites\spr_picture_piece2</sprite>
+    <sprite>sprites\spr_picture_piece3</sprite>
+    <sprite>sprites\spr_picture_piece4</sprite>
+    <sprite>sprites\spr_picture_piece5</sprite>
+    <sprite>sprites\spr_picture_complete</sprite>
+    <sprite>sprites\spr_duck</sprite>
+    <sprite>sprites\spr_brick</sprite>
+    <sprite>sprites\spr_hat</sprite>
+    <sprite>sprites\spr_ball</sprite>
+    <sprite>sprites\spr_turtle</sprite>
+    <sprite>sprites\spr_dragon</sprite>
+    <sprite>sprites\spr_toilet</sprite>
+    <sprite>sprites\spr_spaceship</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
