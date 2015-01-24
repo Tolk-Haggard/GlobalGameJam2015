@@ -41,9 +41,12 @@
     <sprite>sprites\spr_dragon</sprite>
     <sprite>sprites\spr_toilet</sprite>
     <sprite>sprites\spr_spaceship</sprite>
+    <sprite>sprites\spr_start_button</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
+    <background>background\splash_screen</background>
+    <background>background\bkg_credits</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -51,9 +54,15 @@
     <object>objects\obj_wall</object>
     <object>objects\obj_room0_target</object>
     <object>objects\obj_exit</object>
+    <object>objects\obj_start_button</object>
   </objects>
+  <timelines name="timelines"/>
   <rooms name="rooms">
+    <room>rooms\splash</room>
     <room>rooms\room0</room>
+    <room>rooms\room1</room>
+    <room>rooms\room2</room>
+    <room>rooms\credits</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
