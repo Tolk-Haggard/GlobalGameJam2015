@@ -59,6 +59,7 @@
     <object>objects\obj_tile_blue</object>
     <object>objects\obj_picture_piece0</object>
     <object>objects\obj_picture</object>
+    <object>objects\obj_banana</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\splash</room>
