@@ -9,6 +9,8 @@
     <sprite>sprites\spr_monkey</sprite>
     <sprite>sprites\spr_wall</sprite>
     <sprite>sprites\spr_flowerpot</sprite>
+    <sprite>sprites\spr_knife</sprite>
+    <sprite>sprites\spr_table</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
