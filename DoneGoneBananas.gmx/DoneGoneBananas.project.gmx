@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\spr_wall</sprite>
     <sprite>sprites\spr_flowerpot</sprite>
+    <sprite>sprites\spr_knife</sprite>
     <sprite>sprites\spr_monkey</sprite>
     <sprite>sprites\spr_banana</sprite>
     <sprite>sprites\spr_room0_target_hit</sprite>
