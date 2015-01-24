@@ -31,6 +31,7 @@
     <sprite>sprites\spr_picture_piece3</sprite>
     <sprite>sprites\spr_picture_piece4</sprite>
     <sprite>sprites\spr_picture_piece5</sprite>
+    <sprite>sprites\spr_picture_incomplete</sprite>
     <sprite>sprites\spr_picture_complete</sprite>
     <sprite>sprites\spr_duck</sprite>
     <sprite>sprites\spr_brick</sprite>
@@ -56,6 +57,8 @@
     <object>objects\obj_start_button</object>
     <object>objects\obj_tile_red</object>
     <object>objects\obj_tile_blue</object>
+    <object>objects\obj_picture_piece0</object>
+    <object>objects\obj_picture</object>
   </objects>
   <timelines name="timelines"/>
   <rooms name="rooms">
