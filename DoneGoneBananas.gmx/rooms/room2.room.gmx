@@ -171,6 +171,12 @@
     <instance objName="obj_picture_piece4" x="160" y="96" name="inst_F4494841" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_picture_piece5" x="928" y="480" name="inst_7CA71F27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_picture" x="736" y="576" name="inst_DDF46451" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_spaceship" x="64" y="416" name="inst_1B0C9623" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_dragon" x="800" y="64" name="inst_D1286988" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_turtle" x="320" y="640" name="inst_8111BD98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_banana" x="608" y="672" name="inst_434BD537" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_banana" x="64" y="32" name="inst_77C120E2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_banana" x="896" y="256" name="inst_95DDF31F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
