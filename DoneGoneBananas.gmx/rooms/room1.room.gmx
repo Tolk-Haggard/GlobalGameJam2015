@@ -177,7 +177,6 @@ audio_play_sound(snd_room_1, 10, true);</code>
     <instance objName="obj_banana" x="128" y="672" name="inst_DC0762AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="500"/>
     <instance objName="obj_banana" x="224" y="608" name="inst_C96E5279" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_banana" x="896" y="640" name="inst_7EFE02C8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="&lt;undefined&gt;" x="0" y="0" name="inst_36C37793" locked="0" code="" scaleX="0" scaleY="0" colour="0" rotation="0"/>
     <instance objName="obj_hat" x="800" y="64" name="inst_CFF2FD75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_flower" x="352" y="672" name="inst_B504AB68" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ball" x="64" y="288" name="inst_8CAEC780" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

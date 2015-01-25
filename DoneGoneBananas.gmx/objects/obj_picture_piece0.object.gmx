@@ -141,7 +141,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_exit</object>
+            <object>-100</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -169,7 +169,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_picture_complete</sprite>
+            <sprite>-100</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -197,7 +197,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_picture_piece_clear</sprite>
+            <sprite>-100</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -225,7 +225,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_picture_piece_clear</sprite>
+            <sprite>-100</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -253,7 +253,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_picture_piece_clear</sprite>
+            <sprite>-100</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -281,7 +281,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_picture_piece_clear</sprite>
+            <sprite>-100</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -309,7 +309,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_picture_piece_clear</sprite>
+            <sprite>-100</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -337,7 +337,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_picture_piece_clear</sprite>
+            <sprite>-100</sprite>
           </argument>
           <argument>
             <kind>0</kind>
