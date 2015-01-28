@@ -5,10 +5,10 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound">
-    <sound>sound\snd_room_1</sound>
-    <sound>sound\snd_room_0</sound>
-    <sound>sound\snd_room_2</sound>
     <sound>sound\snd_splash</sound>
+    <sound>sound\snd_room_0</sound>
+    <sound>sound\snd_room_1</sound>
+    <sound>sound\snd_room_2</sound>
     <sound>sound\snd_credits</sound>
   </sounds>
   <sprites name="sprites">
@@ -49,17 +49,22 @@
     <sprite>sprites\spr_toilet</sprite>
     <sprite>sprites\spr_spaceship</sprite>
     <sprite>sprites\spr_start_button</sprite>
+    <sprite>sprites\spr_replay</sprite>
+    <sprite>sprites\spr_end</sprite>
     <sprite>sprites\spr_title</sprite>
     <sprite>sprites\spr_credits</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
+    <background>background\background1</background>
     <background>background\splash_screen</background>
     <background>background\bkg_credits</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_start_button</object>
+    <object>objects\obj_replay</object>
+    <object>objects\obj_end</object>
     <object>objects\obj_title</object>
     <object>objects\obj_monkey</object>
     <object>objects\obj_wall</object>
@@ -68,6 +73,7 @@
     <object>objects\obj_tile_blue</object>
     <object>objects\obj_tile_purple</object>
     <object>objects\obj_tile_orange</object>
+    <object>objects\obj_tile_green</object>
     <object>objects\obj_picture_piece0</object>
     <object>objects\obj_picture_piece1</object>
     <object>objects\obj_picture_piece2</object>
