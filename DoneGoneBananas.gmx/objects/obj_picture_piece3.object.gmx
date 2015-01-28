@@ -3,7 +3,7 @@
   <spriteName>spr_picture_piece3</spriteName>
   <solid>0</solid>
   <visible>-1</visible>
-  <depth>0</depth>
+  <depth>-5</depth>
   <persistent>0</persistent>
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
@@ -197,7 +197,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_picture_piece_clear</sprite>
+            <sprite>spr_picture_piece_cleaxxxxxxxxxxxr</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -225,7 +225,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_picture_piece_clear</sprite>
+            <sprite>spr_picture_piece_cleaxxxxxxxxxxxr</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -253,7 +253,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_picture_piece_clear</sprite>
+            <sprite>spr_picture_piece_cleaxxxxxxxxxxxr</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -281,7 +281,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_picture_piece_clear</sprite>
+            <sprite>spr_picture_piece_cleaxxxxxxxxxxxr</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -309,7 +309,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_picture_piece_clear</sprite>
+            <sprite>spr_picture_piece_cleaxxxxxxxxxxxr</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -337,7 +337,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>spr_picture_piece_clear</sprite>
+            <sprite>spr_picture_piece_cleaxxxxxxxxxxxr</sprite>
           </argument>
           <argument>
             <kind>0</kind>

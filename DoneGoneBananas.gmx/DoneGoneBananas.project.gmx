@@ -23,7 +23,7 @@
     <sprite>sprites\spr_tile_purple</sprite>
     <sprite>sprites\spr_tile_orange</sprite>
     <sprite>sprites\spr_tile_green</sprite>
-    <sprite>sprites\spr_picture_piece_clear</sprite>
+    <sprite>sprites\spr_picture_piece_cleaxxxxxxxxxxxr</sprite>
     <sprite>sprites\spr_picture_piece0</sprite>
     <sprite>sprites\spr_picture_piece1</sprite>
     <sprite>sprites\spr_picture_piece2</sprite>
@@ -57,6 +57,7 @@
   <backgrounds name="background">
     <background>background\background0</background>
     <background>background\background1</background>
+    <background>background\background2</background>
     <background>background\splash_screen</background>
     <background>background\bkg_credits</background>
   </backgrounds>
@@ -66,8 +67,10 @@
     <object>objects\obj_replay</object>
     <object>objects\obj_end</object>
     <object>objects\obj_title</object>
-    <object>objects\obj_monkey</object>
     <object>objects\obj_wall</object>
+    <object>objects\obj_monkey</object>
+    <object>objects\obj_hat</object>
+    <object>objects\obj_exit</object>
     <object>objects\obj_room0_target</object>
     <object>objects\obj_tile_red</object>
     <object>objects\obj_tile_blue</object>
@@ -81,7 +84,6 @@
     <object>objects\obj_picture_piece4</object>
     <object>objects\obj_picture_piece5</object>
     <object>objects\obj_picture</object>
-    <object>objects\obj_exit</object>
     <object>objects\obj_banana</object>
     <object>objects\obj_chair</object>
     <object>objects\obj_table</object>
@@ -90,7 +92,6 @@
     <object>objects\obj_flowerpot</object>
     <object>objects\obj_duck</object>
     <object>objects\obj_brick</object>
-    <object>objects\obj_hat</object>
     <object>objects\obj_ball</object>
     <object>objects\obj_turtle</object>
     <object>objects\obj_dragon</object>
